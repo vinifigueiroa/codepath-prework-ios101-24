@@ -2,7 +2,7 @@
 
 Submitted by: Vinicius Figueiroa
 
-**Name of your app** is an app that... [TODO]
+**My first app** is an app that changes the backcground color when pushing the button on the center of the screen and lets the user interact with a date picker and a text fiel.
 
 Time spent: **3** hours spent in total
 
