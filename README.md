@@ -20,7 +20,7 @@ Added features:
 
 ## Video Walkthrough
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OR6B2LuYSCQ?si=IkMLpyv2bA5QpR5N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Guide]](https://youtu.be/OR6B2LuYSCQ)
 
 ## App Brainstorming (Step 4)
 
